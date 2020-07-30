@@ -1,0 +1,1 @@
+A class for calculating and visualizing a Gaussian distribution.
